@@ -2,14 +2,14 @@
 
 ### Environment setup
 
-This instructions are for linux operating systems
+This instructions are for linux operating systems.
 
-Create python virtual environment
+Create python virtual environment:
 
 ```
 python3 -m venv .venv
 ```
-Install required libraries
+Install required libraries:
 
 ```
 pip install -r requirements
@@ -17,4 +17,4 @@ pip install -r requirements
 
 ### Data Source
 
-The data must be placed in the `/data` directory
+The data must be placed in the `/data` directory.
