@@ -1,4 +1,4 @@
-## Project for technical interview
+## Data analysis exercise
 
 ### Environment setup
 
