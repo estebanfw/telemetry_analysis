@@ -9,10 +9,15 @@ Create python virtual environment:
 ```
 python3 -m venv .venv
 ```
+Activate virtual env:
+
+```
+source .venv/bin/activate
+```
 Install required libraries:
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### Data Source
